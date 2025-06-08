@@ -1,5 +1,5 @@
 #About Me:
-👨‍🎓 I'm currently enrolled in a Software Engineer undergraduate degree at PUC-Campinas.<br>#️⃣ Currently learning C and C#.<br>🌐 Languages: English, Portuguese, Spanish. Now learning german.<br>🎥 Productivity softwraes: Adobe photoshop, Adobe premiere, Affinity photo 2<br>🎮 Into game dev as a hobbie. Learning Unity, FL studio and art in general.
+👨‍🎓 I'm currently enrolled in a Software Engineer undergraduate degree at PUC-Campinas.<br>#️⃣ Currently learning C and C#.<br>🌐 Languages: English, Portuguese, Spanish. Now learning german.<br>🎥 Productivity softwares: Adobe photoshop, Adobe premiere, Affinity photo 2, Krita, Procreate, Aseprite<br>🎮 Into game dev as a hobbie. Learning Unity, FL studio and art in general.
 
 
 ##Socials:
