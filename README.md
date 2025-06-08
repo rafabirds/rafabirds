@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi! I'm RafaBirds.<br>👨‍🎓 I'm currently enrolled in a Software Engineer undergraduate degree at PUC-Campinas.<br>#️⃣ Learning C and C#.<br>🌐 Languages: English, Portuguese, Spanish. Now learning german.<br>🎥 Productivity softwares: Adobe photoshop, Adobe premiere, Affinity photo 2, Krita, Procreate, Aseprite.<br>🎮 Into game dev as a hobbie. Learning Unity, FL studio and art in general.</h2>
+<h2 align="left">👋 Hi! I'm RafaBirds.<br>👨‍🎓 I'm currently enrolled in a Software Engineer undergraduate degree at PUC-Campinas.<br>#️⃣ Learning C and C#.<br>🌐 Languages: English, Portuguese, Spanish. Now learning German.<br>🎥 Productivity softwares: Adobe photoshop, Adobe premiere, Affinity photo 2, Krita, Procreate, Aseprite.<br>🎮 Into game dev as a hobbie. Learning Unity, FL studio and art in general.</h2>
 
 ###
 
